@@ -1,0 +1,17 @@
+.achtergrond{
+    background-color: rgb(208, 221, 160);
+}
+
+.formulier{
+    margin-top: 160px;
+    margin-left: 130px;
+}
+
+.achtergrond-form{
+    background-color: white;
+}
+
+.foutmelding{
+    margin-top: 160px;
+    margin-left: 130px;
+}
